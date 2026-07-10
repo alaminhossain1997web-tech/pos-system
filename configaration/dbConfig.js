@@ -10,4 +10,4 @@ const db_url = process.env.DB_URL
 
  module.exports = dbConnect
 
- DB_URL = "mongodb+srv://POS-System:dQMrxTlOVzjxCmbW@cluster0.ymz6izv.mongodb.net/POS-management-system?appName=Cluster0"
+ //DB_URL = "mongodb+srv://POS-System:dQMrxTlOVzjxCmbW@cluster0.ymz6izv.mongodb.net/POS-management-system?appName=Cluster0"
